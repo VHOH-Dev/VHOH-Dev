@@ -1,12 +1,13 @@
-<h2 align="left">Vinicius | 28 Years Old | MG, Brazil<br>
+<h2 align="left" style="color: rgb(34, 193, 195);">Vinicius | 28 Years Old | MG, Brazil<br>
 Web Developer | Cybersecurity Student<br><br>
 I am a web developer with experience in JavaScript and HTML, as well as a cybersecurity student focusing on white hat hacking practices. I am passionate about building secure and efficient web applications while continuously enhancing my skills in cybersecurity.</h2>
+
 
 <img align="right" height="150" src="https://avatars.githubusercontent.com/u/181518478?s=400&u=eb3c8b7ea9c716f89279413347a1062998ed8583&v=4" />
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=VHOH-Dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VHOH-Dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
