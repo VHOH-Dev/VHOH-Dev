@@ -2,8 +2,11 @@
 
 ###
 
+<br clear="both">
+
 <div align="center">
-  <img height="200" src="https://avatars.githubusercontent.com/u/181518478?s=400&u=eb3c8b7ea9c716f89279413347a1062998ed8583&v=4"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=VHOH-Dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blue-green&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=VHOH-Dev&locale=en&mode=daily&theme=blue-green&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
 ###
@@ -68,6 +71,14 @@
 
 ###
 
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=VHOH-Dev&theme=nord&column=8&row=2" height="150" alt="trophy graph"  />
+</div>
+
+###
+
 <h2 align="center">Social Media Links</h2>
 
 ###
@@ -88,11 +99,8 @@
 
 <br clear="both">
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=VHOH-Dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blue-green&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=VHOH-Dev&locale=en&mode=daily&theme=blue-green&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VHOH-Dev&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=blue-green&hide_border=true" height="150" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=VHOH-Dev&theme=nord&column=9&row=2" height="150" alt="trophy graph"  />
 </div>
 
 ###
